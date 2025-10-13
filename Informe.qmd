@@ -1,0 +1,9 @@
+---
+title: "Informe"
+format: html
+---
+
+```{r}
+
+plot(2,3)
+```
