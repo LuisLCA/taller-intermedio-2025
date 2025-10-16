@@ -1,6 +1,7 @@
 # Informe final
 taller-intermedio-2025
 
+-Archivo generado en R (informe.qmd)
 
 Foto: Clase R-Python
 
