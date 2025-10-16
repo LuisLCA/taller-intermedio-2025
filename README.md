@@ -23,7 +23,7 @@
     Los años 2020, 2022 y 2023 fueron seleccionados por presentar cruceros hidroacústicos consecutivos entre Perú y Chile, con fechas de camapañas compatibles en la zona fronteriza. Esta coincidencia temporal permite realizar analisis comparables del stock compartido de la anchoveta.
 
     +------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------+
-    | ![Localización de transectos acústicas de Perú (rojo) y Chile (azul) por frecuencia (38 y 120 kHz) y año.](images/clipboard-3384542142.png){width="9.6cm"} | ![](images/clipboard-3131211097.png) |
+    | ![Localización de transectos acústicas de Perú (rojo) y Chile (azul) por frecuencia (38 y 120 kHz) y año.](images/clipboard-3384542142.png){width="7.9cm"} | ![](images/clipboard-3131211097.png) |
     |                                                                                                                                                            |                                      |
     |                                                                                                                                                            | Buque cientifico BIC Olaya           |
     +------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------+
@@ -36,7 +36,7 @@ Esta figura presenta mapas mensuales de la temperatura superficial del mar (TSM)
 
 Durante el periodo de ejecución de los cruceros hidroacústicos de Perú y Chile, que típicamente se desarrollan entre septiembre y diciembre, se ha calculado el promedio estacional de la temperatura superficial del mar (TSM) para representar las condiciones oceanográficas predominantes en la zona de estudio.
 
-![TSM promedio anual en la costa de Chile y Perú (por crucero)](Figura%202.png)
+![TSM promedio anual en la costa de Chile y Perú (por crucero)](Figura%202.png "TSM promedio anual en la costa de Chile y Perú (por crucero)")
 
 ## Promedio de la TSM durante las campañas hidroacústicas
 
@@ -65,7 +65,7 @@ Tabla 1. Resumen mensual de TSM por país y promedio regional
 
 Esta figura muestra la distribución espacial de la anchoveta en 2023, combinando datos acústicos (`NASC,`@maclennan2002) con la temperatura superficial del mar (TSM) promedio anual en la costa de Chile y Perú.
 
-![](Figura 4.png)
+![](Figura%204.png)
 
 ## **Referencias**
 
