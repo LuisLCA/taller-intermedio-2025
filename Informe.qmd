@@ -45,6 +45,7 @@ execute:
   warning: false
   message: false
   error: false
+  prefer-html: true
 
 bibliography: references.bib
 lang: es
