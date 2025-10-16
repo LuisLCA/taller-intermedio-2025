@@ -22,11 +22,9 @@
 
     Los años 2020, 2022 y 2023 fueron seleccionados por presentar cruceros hidroacústicos consecutivos entre Perú y Chile, con fechas de camapañas compatibles en la zona fronteriza. Esta coincidencia temporal permite realizar analisis comparables del stock compartido de la anchoveta.
 
-    +------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------+
-    | ![Localización de transectos acústicas de Perú (rojo) y Chile (azul) por frecuencia (38 y 120 kHz) y año.](images/clipboard-3384542142.png){width="7.9cm"} | ![](images/clipboard-3131211097.png) |
-    |                                                                                                                                                            |                                      |
-    |                                                                                                                                                            | Buque cientifico BIC Olaya           |
-    +------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------+
+    [![Buque Científico Jose Olaya Balandra](images/clipboard-1058333012.png){width="275"}](https://www.imarpe.gob.pe/plataformas-de-investigacion/)
+
+![Localización de transectos acústicas de Perú (rojo) y Chile (azul) por frecuencia (38 y 120 kHz) y año.](images/clipboard-3384542142.png){width="7.9cm"}
 
 ## Exploración de datos: imagenes satelitales
 
