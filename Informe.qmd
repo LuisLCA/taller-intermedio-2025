@@ -1,29 +1,54 @@
 ---
 title: "Informe Ocean Hack Week 2025"
-subtitle: "Dinámica oceanográfica y acústica de la anchoveta en el Sistema de Corrientes de Humboldt durante el 2020-2023"
+subtitle: "Dinámica oceanográfica y acústica de la anchoveta en el Sistema de Corrientes de Humboldt durante el 2020–2023"
 author: 
   - name: "Luis La Cruz"
     affiliation: "Ocean Hack Week 2025"
     email: "luis.lacruz@ifop.cl"
 date: "17 de octubre de 2025"
+
 format:
   html:
     theme: cosmo
     toc: true
     toc-depth: 2
+    number-sections: true
     code-fold: true
     code-tools: true
-    number-sections: true
     smooth-scroll: true
     highlight-style: github
     css: styles.css
+
+  pdf:
+    documentclass: article
+    toc: true
+    toc-depth: 2
+    number-sections: true
+    colorlinks: true
+    geometry: "margin=2.5cm"
+    fontsize: 11pt
+    mainfont: "Arial"
+    sansfont: "Arial"
+    monofont: "Courier New"
+    highlight-style: github
+    include-in-header: 
+      text: |
+        \usepackage[spanish]{babel}
+        \usepackage{float}
+        \usepackage{setspace}
+        \onehalfspacing
+
 editor: visual
+
 execute:
   echo: false
   warning: false
   message: false
   error: false
+
 bibliography: references.bib
+lang: es
+
 ---
 
 ```{r}
