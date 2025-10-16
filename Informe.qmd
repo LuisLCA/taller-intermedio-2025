@@ -48,7 +48,6 @@ execute:
 
 bibliography: references.bib
 lang: es
-
 ---
 
 ```{r}
@@ -183,16 +182,15 @@ sst_df$SST_cat <- cut(sst_df$SST,
 
     Los años 2020, 2022 y 2023 fueron seleccionados por presentar cruceros hidroacústicos consecutivos entre Perú y Chile, con fechas de camapañas compatibles en la zona fronteriza. Esta coincidencia temporal permite realizar analisis comparables del stock compartido de la anchoveta.
 
-    +--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------+
-    | ![Localización de transectos acústicas de Perú (rojo) y Chile (azul) por frecuencia (38 y 120 kHz) y año.](images/clipboard-3384542142.png){alt="Localización de transectos acústicas de Perú (rojo) y Chile (azul) por frecuencia (38 y 120 kHz) y año." width="9.6cm"} | ![](images/clipboard-3131211097.png) |
-    |                                                                                                                                                                                                                                                                          |                                      |
-    |                                                                                                                                                                                                                                                                          | Buque cientifico BIC Olaya           |
-    +--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------+
+    +------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------+
+    | ![Localización de transectos acústicas de Perú (rojo) y Chile (azul) por frecuencia (38 y 120 kHz) y año.](images/clipboard-3384542142.png){width="9.6cm"} | ![](images/clipboard-3131211097.png) |
+    |                                                                                                                                                            |                                      |
+    |                                                                                                                                                            | Buque cientifico BIC Olaya           |
+    +------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------+
 
 ## Exploración de datos: imagenes satelitales
 
 Esta figura presenta mapas mensuales de la temperatura superficial del mar (TSM) en la costa de Chile y Perú, generados a partir de datos satelitales. Cada panel corresponde a una combinación específica de año y mes, permitiendo observar la variabilidad espacio-temporal de la TSM en el Sistema de Corrientes de Humboldt.
-
 
 ```{r fig.height=7, fig.width=8}
 ggplot(sst_df, aes(x = x, y = y, fill = SST_cat)) +
