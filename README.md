@@ -1,4 +1,12 @@
+<<<<<<< HEAD
 # **Informe Ocean Hack Week 2025**
+=======
+# Informe/Trabajo final
+taller-intermedio-2025
+
+-Archivo generado en R (Informe.qmd / Informe.html)
+<img width="666" height="943" alt="image" src="https://github.com/user-attachments/assets/c04aac04-c17f-4346-9959-a9783df64709" />
+>>>>>>> 2a627f09aa5000aec1e1a59fde77730f42c0125b
 
 ## Dinámica oceanográfica y acústica de la anchoveta en el Sistema de Corrientes de Humboldt durante el 2020-2023"
 
