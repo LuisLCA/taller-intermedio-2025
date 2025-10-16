@@ -1,5 +1,5 @@
-# taller-intermedio-2025
-Informe compartido taller intermedio 2025
+# Informe final
+taller-intermedio-2025
 
 
 Foto: Clase R-Python
