@@ -1,4 +1,4 @@
-# Informe final
+# Informe/Trabajo final
 taller-intermedio-2025
 
 -Archivo generado en R (Informe.qmd / Informe.html)
