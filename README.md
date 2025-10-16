@@ -1,4 +1,4 @@
-# taller-intermedio-2025
+# taller-intermedio-2025-Informe
 Informe compartido taller intermedio 2025
 
 
